@@ -44,6 +44,9 @@ Automatically generate a weekly report in the required format, based on the info
   <img src="images/weekly-report.png" alt="Weekly Report Output" width="550"/>
 </p>
 
+## Automatic Date Tracking
+The program knows what week (and what WC) you are on, and jumps to the appropriate location on launch. 
+
 ---
 
 # Quick Start
