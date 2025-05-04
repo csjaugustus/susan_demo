@@ -1,7 +1,7 @@
 # Susan (Demo)
 
 <p align="center">
-  <img src="images/susan.png" alt="Susan Logo" width="200"/>
+  <img src="images/clerk.png" alt="Susan Logo" width="200"/>
 </p>
 
 A real-time efficiency tracking tool optimized for the EE workflow.
